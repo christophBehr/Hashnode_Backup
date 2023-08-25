@@ -3,6 +3,7 @@ title: "TryHackMe Bookstore Writeup"
 datePublished: Wed Aug 02 2023 14:40:25 GMT+0000 (Coordinated Universal Time)
 cuid: clktu4tut00010amlgxglgrfa
 slug: tryhackme-bookstore-writeup
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692952874743/eab0eb71-a767-4394-9795-13873ae0fc3c.jpeg
 tags: tryhackme, write-up, enumeration, fuzzing
 
 ---
