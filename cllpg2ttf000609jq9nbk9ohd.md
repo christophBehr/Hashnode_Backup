@@ -1,8 +1,8 @@
 ---
-title: "Mr. Robot Writeup"
+title: "TryHackMe/Vulnhub Mr. Robot Writeup"
 datePublished: Thu Aug 24 2023 17:35:35 GMT+0000 (Coordinated Universal Time)
 cuid: cllpg2ttf000609jq9nbk9ohd
-slug: mr-robot-writeup
+slug: tryhackmevulnhub-mr-robot-writeup
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692952815634/b5411359-8b95-4cf2-9513-b8d78b94fa0a.jpeg
 tags: tryhackme, write-up, vulnhub, ctf-writeup, mrrobot
 
